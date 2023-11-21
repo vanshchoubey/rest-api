@@ -1,0 +1,58 @@
+ [
+    {
+        "name":"iphone",
+        "price":154,
+        "feature":true,
+        "company":"apple"
+    },
+
+    {
+        "name":"nokia 450",
+        "price":130,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone 15",
+        "price":300,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"realme",
+        "price":14,
+        "feature":false,
+        "company":"apple"
+    },
+    {
+        "name":"redmi 9",
+        "price":70,
+        "feature":true,
+        "company":"mi"
+    },
+    {
+        "name":"oppo s2",
+        "price":104,
+        "feature":true,
+        "company":"mi"
+    },
+    {
+        "name":"samsung s20 ultra",
+        "price":200,
+        "feature":true,
+        "rating":4,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone 11",
+        "price":230,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"mi prime",
+        "price":14,
+        "feature":false,
+        "company":"mi"
+    }
+]
